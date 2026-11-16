@@ -17,4 +17,4 @@ git config --global user.email "SEU_EMAIL_DO_GITHUB"
 ```
 
 ## Alterações do exemplo
-O README descreve o projeto AgroGestão. O arquivo `novo.py` apresenta e valida dados de uma propriedade. O arquivo `nova_funcionalidade.py` estima a produção. Copie esses arquivos para a pasta clonada e registre as mudanças com Git.
+O README descreve o projeto AgroGestão. O arquivo `novo.py` apresenta e valida dados de uma propriedade. O arquivo `nova_funcionalidade.py` estima a produção. Depois de clonar este repositório, edite este README para registrar a atividade e pratique `git status`, `git add`, `git commit` e `git push`.
