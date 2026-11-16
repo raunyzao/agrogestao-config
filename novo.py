@@ -11,11 +11,9 @@ def resumo_propriedade(nome, cultura, area_hectares):
         raise ValueError("A área deve ser maior que zero.")
 
     return (
-        f"Propriedade: {nome}
-"
-        f"Cultura: {cultura}
-"
-        f"Área cultivada: {area_hectares:.1f} hectares"
+        "Propriedade: " + nome + chr(10)
+        + "Cultura: " + cultura + chr(10)
+        + f"Área cultivada: {area_hectares:.1f} hectares"
     )
 
 
